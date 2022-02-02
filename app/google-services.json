@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640903482521",
+    "project_id": "shazamstore-f85a4",
+    "storage_bucket": "shazamstore-f85a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640903482521:android:feab9d07290b8c32997c08",
+        "android_client_info": {
+          "package_name": "com.shazamstore.app_shazamstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640903482521-fu0nd3nmc5b916k8tuq8a2mvsu3fvfbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnf1rYaeTNM0I6z44QsL5ztjm7Uc74EiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640903482521-fu0nd3nmc5b916k8tuq8a2mvsu3fvfbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
